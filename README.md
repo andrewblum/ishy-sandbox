@@ -1,2 +1,2 @@
 # ishy-sandbox
-A repo to experiment in
+Ishmael King's personal repository scripts and tools
