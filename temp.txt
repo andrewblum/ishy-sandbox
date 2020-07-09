@@ -1,0 +1,2 @@
+Resources: https://github.com/bugsnag/bugsnag-api-ruby/#errors
+Inspiration: https://github.com/Gusto/adams-sandbox/tree/master/bugsnag-api
