@@ -1,0 +1,31 @@
+project_name,project_errors,count,event_count,total_project_events,event_ratio
+ZP Javascript - Payroll > Big Desk,[],0,0,5,0
+ZP Rails - Payroll > Recons,"[""5f07923304a5f300173fa742"", ""5efbb9511dc1690018c2a911"", ""5ed5c7c63194ce00186f0fe0""]",3,366,7817,4.682103108609441
+ZP Rails - GraphQL,[],0,0,7223,0
+ZP Rails - Payroll > Faster Payments,[],0,0,8,0
+ZP Rails - Infrastructure > App Infra,[],0,0,26525,0
+HI Rails - Benefits > Integrations,"[""5f088b1e747bd20017cf97dd"", ""5e4ad2c06edcd4001a0b6ddd"", ""5e98edf5de78cf0018200fd5"", ""5e4d5bf853849700194d9cec""]",4,18592,47654,39.01456331053007
+HI Rails - Benefits > Experiences,"[""5ef638892c7c4500181457bb"", ""5f086fd295157e0018b56b1e"", ""5eb5e1e04e67aa0018ac7388""]",3,110,15405,0.7140538786108407
+HI Rails - Benefits > In-House Benefits,"[""5ebf00f657038e00184e0d21"", ""5e9dc04d6b2a070017c29ecb""]",2,26762,47003,56.93679126864243
+cpe-chef,[],0,0,95415,0
+ZP Rails - Service Platform,"[""5edea1de73d2ed001907dd66"", ""5edeb8071ed9c60018e14caa"", ""5ee006ad8e5f930017b96da8"", ""5ef1038d8e2ee70018d25fc6"", ""5ee0074defac060019d0fde4"", ""5ee009d98103390017f4ce2e""]",6,3428,68471,5.006499101809525
+ZP Rails - Payroll > Payments & Filings MasterTax,[],0,0,0,0
+rest-to-stream,[],0,0,1460,0
+Webhooks,[],0,0,1077,0
+IT CPE Scheduled Jobs,[],0,0,105,0
+ZP Rails - SharedEx,[],0,0,0,0
+ZP Rails - Payroll > Time Tracking,"[""5ef384b1a851e30017a80522"", ""5e671ffa9974a100181b6d18"", ""5ef1e3df46749c0018e3773e""]",3,302,3278,9.21293471629042
+ZP Rails - Payroll > Setup & Onboarding,"[""5ea594157761a4001860efb0""]",1,75,29797,0.2517031915964695
+ZP Rails - Payroll > Running Payroll,"[""5edeb6fd2578bf0017dc843a""]",1,13,338705,0.003838148241094758
+ZP Rails - Payroll > Payments & Filings,"[""5edea86fb9078d001727f611"", ""5efb809950cda200173df103"", ""5ed01d388477410018fc07e4"", ""5ef4c581510d7f0019fb2873""]",4,30,76437,0.0392480081635857
+ZP Rails - Partners > Integrations,[],0,0,3213,0
+ZP Rails - Partners > Accountants,[],0,0,269767,0
+ZP Rails - Partners > API,[],0,0,527,0
+ZP Rails - Infrastructure > SRE,"[""5ed6bd14ea2dd200181b5ff0"", ""5ea23aa61df9e50018c25efa""]",2,44,18142,0.24253114320361593
+ZP Rails - EEL,"[""5f087ea231ac670017c37633""]",1,1,5657,0.017677214071062403
+ZP Rails - Growth & Data > Foundation,[],0,0,212,0
+ZP Rails - Growth & Data > Experiments,"[""5ed40f3150ce8f0017aa7e91""]",1,2,7583,0.026374785704866146
+ZP Rails - Growth & Data > Data,[],0,0,0,0
+ZP Rails - FinTech > Trust & Safety,"[""5ec035a408ec6600175dbc95"", ""5f081ed4ead4690017c06b9a"", ""5efcac6b3a3fab0017c1d412"", ""5eebb56baaa273001729f4a3"", ""5f03fa54b73840001727c594"", ""5ee158ef8cedd30017c9351f""]",6,438,14477,3.025488706223665
+ZP Rails - FinTech > Risk,"[""5ec6a80daccc2a00184ca37a"", ""5ea36f96ebb3f70018492764"", ""5ec9d4cb2477a3001817670a"", ""5ea36fcef75e310017fb8c5c"", ""5ec40f40342bb40017263350"", ""5ec46dc54ced5e001700364a""]",6,834,15724,5.303993894683287
+ZP Rails - FinTech > Payments,"[""5f049176c45e8200176bbb97""]",1,1,1602,0.062421972534332085

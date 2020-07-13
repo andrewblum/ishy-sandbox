@@ -1,0 +1,31 @@
+project_name,project_errors,count,duplicate_count,total_project_events,event_ratio
+ZP Javascript - Payroll > Big Desk,[],0,0,5,0
+ZP Rails - Payroll > Recons,[],0,0,7817,0
+ZP Rails - GraphQL,[],0,0,7223,0
+ZP Rails - Payroll > Faster Payments,[],0,0,8,0
+ZP Rails - Infrastructure > App Infra,[],0,0,26525,0
+HI Rails - Benefits > Integrations,"[""5ea08613b6594d0017e76d06"", ""5e746b1ec0047d0018d0a2da"", ""5e8bf4b241405d0018b28af0"", ""5e5cbe4df15a5b00194d10af""]",4,16102,47654,33.78939858144122
+HI Rails - Benefits > Experiences,[],0,0,15405,0
+HI Rails - Benefits > In-House Benefits,"[""5f072cf42803100018ac30a1""]",1,13,47003,0.027657809076016424
+cpe-chef,[],0,0,95415,0
+ZP Rails - Service Platform,"[""5ee7ed29776d6c0018d6c234"", ""5c9e7e564099ff001b0391a7"", ""5efe9f53ebbfc40017ba1f14"", ""5ee0366b16c8d400189bb9db"", ""5ee036fa811006001766781f""]",5,2097,68471,3.062610448218954
+ZP Rails - Payroll > Payments & Filings MasterTax,[],0,0,0,0
+rest-to-stream,[],0,0,1460,0
+Webhooks,[],0,0,1077,0
+IT CPE Scheduled Jobs,[],0,0,105,0
+ZP Rails - SharedEx,[],0,0,0,0
+ZP Rails - Payroll > Time Tracking,[],0,0,3278,0
+ZP Rails - Payroll > Setup & Onboarding,"[""5f087e7ec66066001878bdc9"", ""5ece581bf2c09a0018cc025a""]",2,110,29797,0.3691646810081552
+ZP Rails - Payroll > Running Payroll,"[""5f0799fbce52b700188bee6e"", ""5ec41443e0ccbf001760b62b""]",2,206,338705,0.06081988751273232
+ZP Rails - Payroll > Payments & Filings,"[""5efc34679448fa0017022d71"", ""5efb8caacf780600175fb536""]",2,104,76437,0.13605976163376374
+ZP Rails - Partners > Integrations,[],0,0,3213,0
+ZP Rails - Partners > Accountants,[],0,0,269767,0
+ZP Rails - Partners > API,[],0,0,527,0
+ZP Rails - Infrastructure > SRE,[],0,0,18142,0
+ZP Rails - EEL,"[""5ef7bb278d204b0017c9911d"", ""5e726debeca0640018184f9a"", ""5ec3195260fe890019524200""]",3,137,5657,2.4217783277355487
+ZP Rails - Growth & Data > Foundation,[],0,0,212,0
+ZP Rails - Growth & Data > Experiments,"[""5ef103d3012f460017f8a147"", ""5eb9a55cfd7c85001859f13a""]",2,276,7583,3.6397204272715284
+ZP Rails - Growth & Data > Data,[],0,0,0,0
+ZP Rails - FinTech > Trust & Safety,[],0,0,14477,0
+ZP Rails - FinTech > Risk,[],0,0,15724,0
+ZP Rails - FinTech > Payments,"[""5f04918c704e7b0018b9164f""]",1,4,1602,0.24968789013732834
