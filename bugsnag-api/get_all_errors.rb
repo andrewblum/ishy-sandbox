@@ -4,8 +4,7 @@ require 'bugsnag/api'
 require 'pry'
 require 'json'
 
-secrets_json = File.read("secrets.json")
-token = JSON.parse(secrets_json)['bugsnag_auth_token']
+token = ENV['bugsnag_auth_token']
 
 cache_json = File.exist?("cache.json") && File.read("cache.json")
 $cache = cache_json ? JSON.parse(cache_json) : {}

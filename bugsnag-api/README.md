@@ -1,7 +1,7 @@
 # Bugsnag API filtering script
 
 Based on: https://github.com/Gusto/adams-sandbox/tree/master/bugsnag-api.   
-Make sure to update secrets.json with your key, in the format of `secrets_example.json`.
+Make sure to update secrets.sh with your key, in the format of `secrets_example.sh`.
 
 ## Example: Get event counts over past 60d for transient errors
 
